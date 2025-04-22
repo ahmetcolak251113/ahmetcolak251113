@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetcolak251113
 - 👀 I’m interested in mathematics and computers
-- 🌱 I’m currently learning coding and data science
+- 🌱 I’m currently learning coding and data science and AI
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ...
     from my email: ahmetcolakofficial@hotmail.com
